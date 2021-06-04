@@ -12,7 +12,7 @@ setup(name='django-flexible',
             'flexible.migrations',
       ],
       install_requires=[
-            'django==2.2.13',
+            'django==2.2.21',
             'django-polymorphic>=2.1.2',
             'django-crispy-forms>=1.7.2',
       ],
